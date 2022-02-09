@@ -14,7 +14,9 @@
 
 ![Block Breaker 28 9 2021 02_19_06](https://user-images.githubusercontent.com/86726474/152199737-460997b5-2021-49aa-b4e6-16ac31a479b2.png)
 
-## LINK TO PLAY:
+## LINKS TO PLAY:
 
-[<img src="https://cms.simmer.io/content/images/2019/08/simmer-badge-super-high-resolution-2.png" width=200px>](https://simmer.io/@bartu/break-deez-blocks-demo)
+[<img src="https://cms.simmer.io/content/images/2019/08/simmer-badge-super-high-resolution-2.png" width=200px>](https://simmer.io/@bartu/break-deez-blocks-demo) 
+
+[<img src="https://static.itch.io/images/badge.svg" width=200px>](https://bartusivaci.itch.io/break-deez-blocks)
 
